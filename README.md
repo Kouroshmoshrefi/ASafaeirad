@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alireza!
 
-> Innovative FrontEnd Engineer with +5 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. I am passionate about learning, teaching, mentoring, and code review.
+> Innovative FrontEnd Engineer with +6 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. I am passionate about learning, teaching, mentoring, and code review.
 
 ----
 
