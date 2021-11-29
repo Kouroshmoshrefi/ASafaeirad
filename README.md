@@ -45,5 +45,4 @@ npx alireza
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=0D1117&logoWidth=20&logoColor=EEE&style=flat-square)
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=0D1117&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Nginx](https://img.shields.io/static/v1?logo=Nginx&label=&message=Nginx&color=0D1117&logoWidth=20&logoColor=EEE&style=flat-square)
-![Nginx](https://img.shields.io/static/v1?logo=Nginx&label=&message=Nginx&color=0D1117&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=Bash&color=0D1117&logoWidth=20&logoColor=EEE&style=flat-square)
