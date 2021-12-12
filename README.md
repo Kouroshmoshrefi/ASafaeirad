@@ -1,6 +1,11 @@
 ![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header.png#gh-dark-mode-only)
 ![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header-dim.png#gh-light-mode-only)
-### Hi there 👋, I'm Alireza!
+
+<div align="center" >
+
+## Hi there 👋, I'm Alireza!
+
+</div>
 
 > Innovative Front-End Engineer with +6 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. I am passionate about learning, teaching, mentoring, and code review.
 
@@ -21,7 +26,7 @@ npx alireza
 
 <div align="center">
 
-### Tech Stack
+## Tech Stack
 
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
