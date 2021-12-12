@@ -10,7 +10,7 @@
 > Innovative Front-End Engineer with +6 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. I am passionate about learning, teaching, mentoring, and code review.
 
 ```bash
-npx alireza
+$ npx alireza
 ```
 
 ![console](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/console.png)
