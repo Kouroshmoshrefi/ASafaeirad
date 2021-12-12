@@ -8,6 +8,8 @@
 npx alireza
 ```
 
+![console](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/console.png)
+
 #### [📖 CV](https://github.com/frontendmonster/cv)
 
 #### [🔶 FullstacksJS community](https://github.com/fullstacksjs/)
