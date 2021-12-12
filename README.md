@@ -10,9 +10,12 @@ npx alireza
 
 ![console](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/console.png)
 
-#### [📖 CV](https://github.com/frontendmonster/cv)
+<div align="center">
 
-#### [🔶 FullstacksJS community](https://github.com/fullstacksjs/)
+<a href="https://github.com/frontendmonster/cv">![CV](https://img.shields.io/static/v1?logo=bookstack&message=CV&label=&color=F3CB65&logoColor=333&style=flat-square)</a>
+<a href="https://www.linkedin.com/in/alireza-safaeirad/">![Linkdin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
+
+</div>
 
 ---
 
