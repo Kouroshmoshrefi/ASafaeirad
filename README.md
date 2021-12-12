@@ -19,6 +19,8 @@ npx alireza
 
 ---
 
+<div align="center">
+
 ### Tech Stack
 
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
@@ -53,3 +55,5 @@ npx alireza
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Nginx](https://img.shields.io/static/v1?logo=Nginx&label=&message=Nginx&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=Bash&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+
+</div>
