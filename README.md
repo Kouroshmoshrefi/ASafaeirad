@@ -1,4 +1,5 @@
-![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header.png)
+![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header.png#gh-dark-mode-only)
+![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header-dim.png#gh-light-mode-only)
 ### Hi there 👋, I'm Alireza!
 
 > Innovative Front-End Engineer with +6 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. I am passionate about learning, teaching, mentoring, and code review.
