@@ -9,7 +9,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: streetsidesoftware/cspell-action@v1.3.4
         with:
-          files: "./swagger.yaml"
           inline: warning
           root: "."
           config: "./cspell.json"
