@@ -1,5 +1,5 @@
 ![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header.png#gh-dark-mode-only)
-![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header-dim.png#gh-light-mode-only)
+![header](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/header-light.png#gh-light-mode-only)
 
 <div align="center" >
 
@@ -7,18 +7,19 @@
 
 </div>
 
-> Innovative Front-End Engineer with +6 years of professional experience, focused on modular and scalable design and development. Proficient in Web technologies and modern JS/TS ecosystem. I am passionate about learning, teaching, mentoring, and code review.
+> I like learning new skills and developing scalable applications. My passion in programming started in 2008, when I attempted to create a 2D game in VB6. I’m the creator of the FullstacksJS open-source community, however In my professional life, I work as a front-end engineer.
 
 ```bash
 $ npx alireza
 ```
 
-![console](https://raw.githubusercontent.com/frontendmonster/frontendmonster/main/assets/console.png)
+![console](https://raw.githubusercontent.com/ASafaeirad/ASafaeirad/main/assets/console.png#gh-dark-mode-only)
+![console](https://raw.githubusercontent.com/ASafaeirad/ASafaeirad/main/assets/console-light.png#gh-light-mode-only)
 
 <div align="center">
 
-<a href="https://github.com/frontendmonster/cv">![CV](https://img.shields.io/static/v1?logo=bookstack&message=CV&label=&color=F3CB65&logoColor=333&style=flat-square)</a>
-<a href="https://www.linkedin.com/in/alireza-safaeirad/">![Linkdin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
+<a href="https://github.com/ASafaeirad/cv">![CV](https://img.shields.io/static/v1?logo=bookstack&message=CV&label=&color=F3CB65&logoColor=333&style=flat-square)</a>
+<a href="https://www.linkedin.com/in/alireza-safaeirad/">![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=F3CB65&logoColor=333)</a>
 
 </div>
 
