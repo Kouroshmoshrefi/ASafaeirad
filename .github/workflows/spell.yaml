@@ -12,4 +12,5 @@ jobs:
           files: "**/*.md"
           inline: warning
           root: "."
+          incremental_files_only: false
           config: "./cspell.json"
