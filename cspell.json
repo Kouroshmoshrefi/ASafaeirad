@@ -1,11 +1,5 @@
 {
   "version": "0.2",
   "language": "en",
-  "dictionaries": [
-    "node"
-  ],
-  "words": [
-    "alireza",
-    "Fullstacks"
-  ]
+  "words": ["alireza", "Fullstacks", "Linkedin"]
 }
