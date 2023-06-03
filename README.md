@@ -52,7 +52,6 @@ $ npx alireza@latest
 ![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=Postgresql&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Mongodb](https://img.shields.io/static/v1?logo=redis&label=&message=Redis&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Redis](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
-![Jest](https://img.shields.io/static/v1?logo=Jest&label=&message=Jest&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker-compose&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
