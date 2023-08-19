@@ -62,3 +62,9 @@ $ npx alireza@latest
 ![Bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=Bash&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 
 </div>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=ASafaeirad&label=%20&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
