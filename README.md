@@ -7,7 +7,7 @@
 
 </div>
 
-> I like learning new skills and developing scalable applications. My passion in programming started in 2008, when I attempted to create a 2D game in VB6. I’m the creator of the FullstacksJS open-source community, however In my professional life, I work as a front-end engineer.
+> I like learning new skills and developing scalable applications. My passion for programming started in 2008 when I attempted to create a 2D game in VB6. I’m the creator of the FullstacksJS open-source community, however, In my professional life, I work as a front-end engineer.
 
 ```bash
 $ npx alireza@latest
