@@ -7,7 +7,7 @@
 
 </div>
 
-> I like learning new skills and developing scalable applications. My passion in programming started in 2008, when I attempted to create a 2D game in VB6. I’m the creator of the FullstacksJS open-source community, however In my professional life, I work as a front-end engineer.
+> I like learning new skills and developing scalable applications. My passion for programming started in 2008 when I attempted to create a 2D game in VB6. I’m the creator of the FullstacksJS open-source community, however, In my professional life, I work as a front-end engineer.
 
 ```bash
 $ npx alireza@latest
@@ -60,5 +60,11 @@ $ npx alireza@latest
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Nginx](https://img.shields.io/static/v1?logo=Nginx&label=&message=Nginx&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
 ![Bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=Bash&color=2D333B&logoWidth=20&logoColor=EEE&style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=ASafaeirad&label=%20&color=12&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
